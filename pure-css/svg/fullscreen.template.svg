@@ -1,0 +1,29 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none" >
+    <g>
+        <path stroke="none" fill="#FAFAFA"  d="M0,60 l100,0 0,40 -100,0z" ></path>
+        <path stroke="none" fill="#E1E1E1"  d="M0,55 l100,0 0,45z" ></path>
+        <path stroke="none" fill="#C8C8C8"  d="M0,45 l100,0 -100,50z" ></path>
+        <path stroke="none" fill="#969696"  d="M0,40 l100,0 0,40z" ></path>
+        <path stroke="none" fill="#AFAFAF"  d="M0,25 l100,0 -100,55z" ></path>
+        <path stroke="none" fill="#7D7D7D"  d="M0,20 l100,0 0,35z" ></path>
+        <path stroke="none" fill="#646464"  d="M0,0 l100,0 -100,50z" ></path>
+        <path stroke="none" fill="#4B4B4B"  d="M0,0 l100,0 0,40z" ></path>
+        <path stroke="none" fill="#323232"  d="M0,0 l100,0 -100,30z" ></path>
+        <path stroke="none" fill="#191919"  d="M0,0 l100,0 0,20z" ></path>
+    </g>
+    
+    
+    <defs>
+       <pattern id="grid10" x="0" y="0" width="10%" height="10%"> 
+         <path fill="none" stroke="#000" stroke-width="0.5" d="M0,10 10,10 10,0" /> 
+       </pattern> 
+     </defs> 
+     <defs> 
+       <pattern id="grid50" x="0" y="0" width="50%" height="50%"> 
+         <path fill="none" stroke="#F00" stroke-width="1" d="M0,50 50,50 50,0" /> 
+       </pattern> 
+     </defs> 
+<!--     <rect  x="0" y="0" width="100%" height="100%" fill="url(#grid50)"></rect> -->
+<!--     <rect  x="0" y="0" width="100%" height="100%" fill="url(#grid10)"></rect>-->
+</svg>
+
