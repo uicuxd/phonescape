@@ -1,4 +1,4 @@
-<h1 align="center" id="phonescape" >phonescape</h1>
+<h1 align="center" id="phonescape" >𝓹𝓱𝓸𝓷𝓮𝓼𝓬𝓹𝓪𝓮</h1>
 <p align="center">
   &#9899; phonescape
   &#9898; <a href="#layout">layout</a>
@@ -25,7 +25,7 @@ A New and different approach to help smartphone users to have **simpler** and mo
 <br>
 
 
-<h1 align="center" id="layout" >layout</h1>
+<h1 align="center" id="layout" >𝓵𝓪𝔂𝓸𝓾𝓽</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9899; layout
@@ -58,7 +58,7 @@ here is the result on Galaxy S3
 <br>
 
 
-<h1 align="center" id="demo" >demo</h1>
+<h1 align="center" id="demo" >𝓭𝓮𝓶𝓸</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
@@ -89,11 +89,11 @@ If you opened it with your browser, it would be better to change your browser's 
 <br>
 
 
-<h1 align="center" id="feature" >feature</h1>
+<h1 align="center" id="feature" >𝓯𝓮𝓪𝓽𝓾𝓻𝓮</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
-  &#9898; <a href="demo">demo</a>
+  &#9898; <a href="#demo">demo</a>
   &#9899; features
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
@@ -103,8 +103,8 @@ If you opened it with your browser, it would be better to change your browser's 
  
  - pure and standard CSS, everything works with no `JS`
  - near 0% learning curve for end-users and developers (= front-end)
- - no headache for front-end team or developers to take care of fitting their desktop-box-model into smartphone-box-model
- - good for new startup and business if they do not want to have separate mobile applications or cannot because of mobile applications' costs
+ - no headaches for front-end team or developers to take care of fitting their desktop-box-model into smartphone-box-model
+ - good for new startups and businesses if they do not want to have separate mobile applications or cannot because of mobile applications' costs
 
 <br>
 <br>
@@ -118,7 +118,7 @@ If you opened it with your browser, it would be better to change your browser's 
 <br>
 
 
-<h1 align="center" id="prerequisite" >prerequisite</h1>
+<h1 align="center" id="prerequisite" >𝓹𝓻𝓮𝓻𝓮𝓺𝓾𝓲𝓼𝓲𝓽𝓮</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
@@ -152,7 +152,7 @@ Mostly you should be able:
 <br>
 
 
-<h1 align="center" id="usage" >usage</h1>
+<h1 align="center" id="usage" >𝓾𝓼𝓪𝓰𝓮</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
@@ -182,7 +182,7 @@ Here is what you need:
 <br>
 
 
-<h1 align="center" id="troubleshooting" >troubleshooting</h1>
+<h1 align="center" id="troubleshooting" >𝓽𝓻𝓸𝓾𝓫𝓵𝓮𝓼𝓱𝓸𝓸𝓽𝓲𝓷𝓰</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
@@ -195,7 +195,7 @@ Here is what you need:
 </p>
 
 The first strange thing you will see is the absence of `JS` for handling active-page.
-JavaScript can use a simple loop over each page and toggle active/inactive page. The same effect has been done using the `CSS` input element and UI-state Pseudo-class.
+JavaScript can use a simple loop over each page and toggle active/inactive page. The same effect has been done using the `CSS` input element and UI-state pseudo-class.
 
 ```HTML
 <!-- app-01 == home == icons -->
@@ -229,7 +229,7 @@ The second one is the `HTML` structure which is ordered from **bottom** to **top
 
 The third one is the absence of `.class` in `HTML` structure and `CSS` code. The two main reasons why I dislike using `.class` in `CSS` and `HTML`:
 
- 1. for me (with a little background in `C` and `C++`) **CSS* `.class` is like `goto` keyword. It is powerful, but also dangerous. Search for the reason.
+ 1. for me (with a little background in `C` and `C++`) **CSS** `.class` is like `goto` keyword. It is powerful, but also dangerous. Search for the reason.
  2. I prefer looking at `CSS` code and know what the `HTML` structure is, other then always switching between CSS and HTML files.
  
 To understand the second reason, try to guess the HTML structure by looking at the following two CSS code.  
@@ -282,7 +282,7 @@ What is `HTML` structure?
 <br>
 <br>
 
-<h1 align="center" id="license" >license</h1>
+<h1 align="center" id="license" >𝓵𝓲𝓬𝓮𝓷𝓼𝓮</h1>
 <p align="center">
   &#9898; <a href="#phonescape">phonescape</a>
   &#9898; <a href="#layout">layout</a>
