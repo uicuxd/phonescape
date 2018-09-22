@@ -201,28 +201,28 @@ Here is what you need:
 </p>
 
 <p align="center">
-Let your users **easily** and **fast** grasp your site map / contents
+Let your users 𝙚𝙖𝙨𝙞𝙡𝙮 and 𝙛𝙖𝙨𝙩 grasp your site map / contents
 </p>
 <p align="center">
   <img src="p3100-chrome-portrait-home-screen-svg-mockup.png" alt="">
 </p>
 
 <p align="center">
-Let them see your **contact** info in one touch / click, without scrolling
+Let them see your 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙞𝙣𝙛𝙤 in one touch / click, without scrolling
 </p>
 <p align="center">
   <img src="p3100-chrome-portrait-contact-svg-mockup.png" alt="">
 </p>
 
 <p align="center">
-Let them **listen to music** while using your site or application
+Let them 𝙡𝙞𝙨𝙩𝙚𝙣 𝙩𝙤 𝙢𝙪𝙨𝙞𝙘 while using your site or application
 </p>
 <p align="center">
   <img src="p3100-chrome-portrait-music-player-svg-mockup.png" alt="">
 </p>
 
 <p align="center">
-Let them the choice to use **full screen-size**
+Let them the choice to use 𝙛𝙪𝙡𝙡 𝙨𝙘𝙧𝙚𝙚𝙣-𝙨𝙞𝙯𝙚
 </p>
 <p align="center">
   <img src="p3100-chrome-portrait-hide-menu-svg-mockup.png" alt="">
