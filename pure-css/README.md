@@ -6,6 +6,7 @@
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -33,6 +34,7 @@ A New and different approach to help smartphone users to have **simpler** and mo
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -66,6 +68,7 @@ here is the result on Galaxy S3
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -97,6 +100,7 @@ If you opened it with your browser, it would be better to change your browser's 
   &#9899; features
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -126,6 +130,7 @@ If you opened it with your browser, it would be better to change your browser's 
   &#9898; <a href="#feature">feature</a>
   &#9899; prerequisite
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -160,6 +165,7 @@ Mostly you should be able:
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9899; usage
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9898; <a href="#license">license</a>
 </p>
@@ -181,6 +187,57 @@ Here is what you need:
 <br>
 <br>
 
+<h1 align="center" id="screenshots">𝓼𝓬𝓻𝓮𝓮𝓷𝓼𝓱𝓸𝓽𝓼</h1>
+<p align="center">
+  &#9898; <a href="#phonescape">phonescape</a>
+  &#9898; <a href="#layout">layout</a>
+  &#9898; <a href="#demo">demo</a>
+  &#9898; <a href="#feature">feature</a>
+  &#9898; <a href="#prerequisite">prerequisite</a>
+  &#9898; <a href="#usage">usage</a>
+  &#9899; screenshots
+  &#9898; <a href="#troubleshooting">troubleshooting</a>
+  &#9898; <a href="#license">license</a>
+</p>
+
+<p align="center">
+Let your users **easily** and **fast** grasp your site map / contents
+</p>
+<p align="center">
+  <img src="p3100-chrome-portrait-home-screen-svg-mockup.png" alt="">
+</p>
+
+<p align="center">
+Let them see your **contact** info in one touch / click, without scrolling
+</p>
+<p align="center">
+  <img src="p3100-chrome-portrait-contact-svg-mockup.png" alt="">
+</p>
+
+<p align="center">
+Let them **listen to music** while using your site or application
+</p>
+<p align="center">
+  <img src="p3100-chrome-portrait-music-player-svg-mockup.png" alt="">
+</p>
+
+<p align="center">
+Let them the choice to use **full screen-size**
+</p>
+<p align="center">
+  <img src="p3100-chrome-portrait-hide-menu-svg-mockup.png" alt="">
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1 align="center" id="troubleshooting" >𝓽𝓻𝓸𝓾𝓫𝓵𝓮𝓼𝓱𝓸𝓸𝓽𝓲𝓷𝓰</h1>
 <p align="center">
@@ -190,6 +247,7 @@ Here is what you need:
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9899; troubleshooting
   &#9898; <a href="#license">license</a>
 </p>
@@ -290,6 +348,7 @@ What is `HTML` structure?
   &#9898; <a href="#feature">feature</a>
   &#9898; <a href="#prerequisite">prerequisite</a>
   &#9898; <a href="#usage">usage</a>
+  &#9898; <a href="#screenshots">screenshots</a>
   &#9898; <a href="#troubleshooting">troubleshooting</a>
   &#9899; license
 </p>
