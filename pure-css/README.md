@@ -222,10 +222,26 @@ Let them 𝙡𝙞𝙨𝙩𝙚𝙣 𝙩𝙤 𝙢𝙪𝙨𝙞𝙘 while using your
 </p>
 
 <p align="center">
-Let them the choice to use 𝙛𝙪𝙡𝙡 𝙨𝙘𝙧𝙚𝙚𝙣-𝙨𝙞𝙯𝙚
+Give them the choice to use 𝙛𝙪𝙡𝙡 𝙨𝙘𝙧𝙚𝙚𝙣-𝙨𝙞𝙯𝙚
 </p>
 <p align="center">
   <img src="p3100-chrome-portrait-hide-menu-svg-mockup.png" alt="">
+</p>
+
+<p align="center">
+With only one @𝙢𝙚𝙙𝙞𝙖 query manage all smartphones in responsive design
+</p>
+<p align="center">
+From 𝙨𝙢𝙖𝙡𝙡 ones:
+</p>
+<p align="center">
+  <img src="phonescape-portrait-note-3-mockup.png" alt="">
+</p>
+<p align="center">
+to the 𝙗𝙞𝙜 ones:
+</p>
+<p align="center">
+  <img src="phonescape-landscape-tab-2-mockup.png" alt="">
 </p>
 
 <br>
